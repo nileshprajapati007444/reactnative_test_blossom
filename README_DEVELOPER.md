@@ -19,9 +19,11 @@
 - Used 'moment' package to display converted date from timestamp.
 
 # TO RUN APP, FOLLOW THE BELOW INSTRUCTION:
-- Open Simulator from Android Studio to run app in simulator
-- Get clone of the project from github
-- Open Command Prompt and go to Project Directory. Hit below commands:
+- Download "Android Studio" from "https://developer.android.com/studio/"
+- Follow the installation steps for Android Studio
+- Open Simulator from Android Studio to run app in simulator (keep it open)
+- Get clone of the project from github (Follow steps defined in "https://github.com/nileshprajapati007444/reactnative_test_blossom/blob/master/README.md"
+- Open Command Prompt and go to Project Directory (reactnative_test_blossom). Hit below commands:
 - npm install
-- React native run-android (it will run app in Simulator or Device)
+- React native run-android (it will run app in Simulator or Device - that was opend in bullet 3)
 
